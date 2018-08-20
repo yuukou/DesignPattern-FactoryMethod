@@ -9,7 +9,7 @@ class ComposerStaticInitb0c53c77516f540b94cda8cdcfc05f3e
     public static $prefixLengthsPsr4 = array (
         'M' => 
         array (
-            'Main\\' => 5,
+            'Main!\\' => 6,
         ),
         'F' => 
         array (
@@ -19,9 +19,9 @@ class ComposerStaticInitb0c53c77516f540b94cda8cdcfc05f3e
     );
 
     public static $prefixDirsPsr4 = array (
-        'Main\\' => 
+        'Main!\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/Main',
+            0 => __DIR__ . '/../..' . '/Main!',
         ),
         'FactoryMethod\\' => 
         array (
