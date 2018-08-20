@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "FactoryMethod\\": "FactoryMethod/",
+      "Main\\": "Main/",
+      "FactoryMethodConcrete\\": "FactoryMethodConcrete/"
+    }
+  }
+}
